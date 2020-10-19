@@ -11,8 +11,8 @@
  * @wordpress-plugin
  * Plugin Name:       Remove WordPress Version Number
  * Plugin URI:        https://switchwebdev.com/wordpress-plugins/
- * Description:       A quict and easy way to remove the WordPress version number.
- * Version:           0.2.1
+ * Description:       A quick and easy way to remove the WordPress version number.
+ * Version:           0.2.3
  * Requires at least: 4.0
  * Requires PHP:      5.6
  * Author:            SwitchWebdev.com
