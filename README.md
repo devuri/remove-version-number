@@ -1,2 +1,2 @@
 # Remove WordPress Version Number
-A quict and easy way to remove the WordPress version number.
+A quick and easy way to remove the WordPress version number. 
